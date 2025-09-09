@@ -34,3 +34,8 @@ São usados em atributos e métodos.
 
 ## Relacionamentos
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f12fab0-ddd1-4eff-b9d4-eb0702d708b7" />
+
+* 
+
+## Exemplo de Modelo relacional 
+<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/633e0e01-bcea-4ab3-ae29-5c8bca92a022" />
