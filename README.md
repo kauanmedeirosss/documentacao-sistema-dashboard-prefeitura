@@ -25,3 +25,8 @@
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2a70959a-3596-4be7-a9a0-0a03dfc92239" />
 
 * Estrutura acima foi gerada pelo ChatGPT para exemplificar como ficaria um Enum cujas constantes possuem atributos.
+
+## Níveis de visibilidade
+* '+ público' - visível em qualquer classe
+* '# protegido' - qualquer descendente pode usar
+* '- privado' - visível somente dentro da classe
