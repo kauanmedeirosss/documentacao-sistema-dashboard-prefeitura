@@ -20,3 +20,8 @@
   - 2° -> Atributos
   - 3° -> Métodos
   - 4° -> Constantes
+
+### Enum enriquecido ou Enum orientado a objetos
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2a70959a-3596-4be7-a9a0-0a03dfc92239" />
+
+* Estrutura acima foi gerada pelo ChatGPT para exemplificar como ficaria um Enum cujas constantes possuem atributos.
