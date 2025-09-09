@@ -27,6 +27,10 @@
 * Estrutura acima foi gerada pelo ChatGPT para exemplificar como ficaria um Enum cujas constantes possuem atributos.
 
 ## Níveis de visibilidade
+São usados em atributos e métodos.
 * '+ público' - visível em qualquer classe
 * '# protegido' - qualquer descendente pode usar
 * '- privado' - visível somente dentro da classe
+
+## Relacionamentos
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f12fab0-ddd1-4eff-b9d4-eb0702d708b7" />
