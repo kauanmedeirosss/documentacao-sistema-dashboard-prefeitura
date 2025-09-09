@@ -36,7 +36,16 @@ São usados em atributos e métodos.
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f12fab0-ddd1-4eff-b9d4-eb0702d708b7" />
 
 * Agregação
+  - "uma solicitação PODE ter vários feedbacks"
+  - losango branco do lado do todo
 * Composição
+  - "um dashboard pode ter várias notificações, mas uma notificação NÃO EXISTE SEM o dashboard"
+  - losango preto no lado do todo
+
+### As setas
+* Losango + linha simples = agregação/composição sem direção explícita → indica só a relação "todo–parte".
+* Losango + seta = agregação/composição com direção → indica que o lado do losango conhece a parte, mas a parte não necessariamente conhece o todo.
+  - Ou seja, não existe referencia do todo na classe da parte
 
 ## Exemplo de Modelo relacional 
 <img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/633e0e01-bcea-4ab3-ae29-5c8bca92a022" />
