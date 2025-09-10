@@ -40,6 +40,12 @@ São usados em atributos e métodos.
   - se tiver seta, fica do lado do todo
     * Com seta → unidirecional (só uma classe conhece a outra).
     * Sem seta → bidirecional (ambas se conhecem).
+* Herança (Generalização)
+  - "Uma classe é um tipo especializado de outra"
+  - linha contínua com seta aberta para o pai (superclasse), linha mais grossa/negrita que as demais
+* Dependência
+  - "Um relacionamento fraco, temporário, geralmente porque uma classe usa a outra como parâmetro ou variável local"
+  - linha tracejada com seta aberta aponta para o elemento do qual depende
 * Agregação
   - "uma solicitação PODE ter vários feedbacks"
   - losango branco do lado do todo
