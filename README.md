@@ -35,6 +35,11 @@ São usados em atributos e métodos.
 ## Relacionamentos
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f12fab0-ddd1-4eff-b9d4-eb0702d708b7" />
 
+* Associação
+  - "uma “conhece” ou “usa” a outra como atributo"
+  - se tiver seta, fica do lado do todo
+    * Com seta → unidirecional (só uma classe conhece a outra).
+    * Sem seta → bidirecional (ambas se conhecem).
 * Agregação
   - "uma solicitação PODE ter vários feedbacks"
   - losango branco do lado do todo
