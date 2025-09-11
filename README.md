@@ -1,4 +1,4 @@
-# Um pequeno guia para Diagramas de Classes
+# Um pequeno guia para entender o Diagramas de Classes
 
 ## Classes
 ### Classes comuns
